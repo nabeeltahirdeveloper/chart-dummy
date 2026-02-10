@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@nabeeltahirdeveloper/chart-sdk": "^1.0.1",
+    "@nabeeltahirdeveloper/chart-sdk": "github:nabeeltahirdeveloper/chart-sdk#devin/1770706706-sdk-trading-components",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
